@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">TC Doğrulama</string>
+    <string name="tckn_title">TC Kimlik No (11 Karakter)</string>
+    <string name="name">Adınız</string>
+    <string name="surname">Soyadınız</string>
+    <string name="year">Doğum yılınız ör.1993</string>
+    <string name="sorgu">Sorgula</string>
+
+</resources>
